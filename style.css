@@ -1,1 +1,23 @@
 /* CSS styles go here. Wow! */
+/* Global */
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    color: #111212;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    color: #111212;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: #111212;
+}
+/* phone mode */
+@media only screen and (max-width : 600px) {
+
+}
