@@ -34,7 +34,7 @@ h2 {
 
         main {
             grid-area: main;
-            background-color: orange;
+            background-color: D5CFE1;
         }
 
         aside {
@@ -69,7 +69,7 @@ h2 {
         /*FIRST BREAK POINT === tablet */
         @media only screen and (max-width : 900px) {
             body {
-                background: blue;
+                background: D5CFE1;
             }
 
             .grid-container {
@@ -92,7 +92,7 @@ h2 {
         @media only screen and (max-width : 600px) {
 
             body {
-                background: fuchsia;
+                background: D5CFE1;
             }
 
             .grid-container {
