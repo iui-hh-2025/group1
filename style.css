@@ -133,6 +133,9 @@ nav ul li a:hover::after {
     transform: translateX(0);
 }
 
+.whichpage {
+    color:#6366f1
+}
 /* Main */
 main {
     grid-area: main;
